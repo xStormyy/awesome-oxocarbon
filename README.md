@@ -1,5 +1,6 @@
 # awesome-oxocarbon
-
+<!-- Small summary of what the oxocarbon theme is -->
+<!-- Explain [Dark/Light] & (official) tags -->
 ## Contents
 * Resources
 * Editors
@@ -42,7 +43,7 @@
 * [Gradience](https://gist.github.com/KPidS/8887c7c083c466261b94a3b7c02df9b9)
 
 ### Others
-* [Vimium](https://discord.com/channels/1050624267592663050/1051038432043999303/1125567824212021328)
+* [[Dark] Vimium](https://discord.com/channels/1050624267592663050/1051038432043999303/1125567824212021328)
 * [Oxocarbon themed Papirus Folders](https://github.com/BattleCh1cken/oxocarbon-papirus-folders)
 * [Rofi](https://github.com/BattleCh1cken/oxocarbon-rofi/tree/main)
-* [fzf](https://discord.com/channels/1050624267592663050/1051038432043999303/1063798954980024372)
+* [[Dark] fzf](https://discord.com/channels/1050624267592663050/1051038432043999303/1063798954980024372)
