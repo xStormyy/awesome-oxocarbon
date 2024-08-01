@@ -22,7 +22,7 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 
 ### Editors
 * [[Light/Dark] Neovim (Official)](https://github.com/nyoom-engineering/oxocarbon.nvim)
-* [[Dark] Helix](https://discord.com/channels/1050624267592663050/1051039607308943400/1145408642561101854)
+* [[Dark] Helix](https://github.com/neoangelism/oxocarbon-helix/tree/main)
 * [[Dark] Lite-XL](https://github.com/lite-xl/lite-xl-colors/blob/master/colors/oxocarbon-dark.lua)
 * [[Dark] IntelliJ IDEA](https://github.com/ImLynxie/Oxocarbon)
 * [[Dark] Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ibmlover.oxocarbon)
@@ -63,3 +63,4 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Dark] Rofi](https://github.com/BattleCh1cken/oxocarbon-rofi/tree/main)
 * [[Dark] fzf](https://discord.com/channels/1050624267592663050/1051038432043999303/1063798954980024372)
 * [[Dark] Starship](https://gitlab.com/boydkelly/carbonizer/-/blob/main/starship/starship.toml)
+* [[Light/Dark] Wallpapers](https://github.com/andrewzn69/wallpapers/tree/main/carbon)
