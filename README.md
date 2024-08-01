@@ -8,7 +8,7 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 1. [Resources](#resources)
 2. [Editors](#editors)
 3. [Terminals](#terminals)
-4. [Userstyles](#userstyles)
+4. [Web](#web)
 5. [Display Managers](#display-managers)
 6. [GUI Toolkits](#gui-toolkits)
 7. [Other](#other)
@@ -43,7 +43,7 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Dark] Hyper](https://github.com/charleszheng44/hyper-oxocarbon)
 * [[Light/Dark] tmux](https://github.com/JonRoosevelt/tmux-oxocarbon)
 
-### Userstyles
+### Web
 * [[Dark] GitHub](https://github.com/PedroVH/oxocarbon-userstyles/tree/main/github)
 * [[Dark] Email](https://github.com/PedroVH/oxocarbon-userstyles/tree/main/gmail)
 * [[Dark] WhatsApp](https://github.com/PedroVH/oxocarbon-userstyles/tree/main/whatsapp-web)
