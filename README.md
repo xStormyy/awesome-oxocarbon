@@ -24,7 +24,9 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Dark] Helix](https://discord.com/channels/1050624267592663050/1051039607308943400/1145408642561101854)
 * [[Dark] Lite-XL](https://github.com/lite-xl/lite-xl-colors/blob/master/colors/oxocarbon-dark.lua)
 * [[Dark] IntelliJ IDEA](https://github.com/ImLynxie/Oxocarbon)
-* [Visual Studio](https://marketplace.visualstudio.com/items?itemName=ibmlover.oxocarbon)
+* [[Dark] Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ibmlover.oxocarbon)
+* [[Dark] Emacs](https://github.com/thefossenjoyer/oxocarbon-emacs)
+* [[Dark] Zed](https://github.com/Takk8IS/oxocarbon-theme-for-zed)
 
 ### Terminals
 * [[Light/Dark] Alacritty (Official)](https://github.com/nyoom-engineering/oxocarbon-alacritty)
@@ -35,6 +37,9 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Light] Kitty](https://gitlab.com/boydkelly/carbonizer/-/blob/main/kitty/oxocarbon-light.conf)
 * [[Dark] Kitty](https://github.com/hbjydev/oxocarbon-kitty)
 * [[Light/Dark] Foot](https://gitlab.com/boydkelly/carbonizer/-/tree/main/foot)
+* [[Dark] GNOME Terminal](https://github.com/charleszheng44/gnome-terminal-oxocarbon)
+* [[Dark] Hyper](https://github.com/charleszheng44/hyper-oxocarbon)
+* [[Light/Dark] tmux](https://github.com/JonRoosevelt/tmux-oxocarbon)
 
 ### Userstyles
 * [[Dark] GitHub](https://github.com/PedroVH/oxocarbon-userstyles/tree/main/github)
