@@ -65,3 +65,4 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Dark] fzf](https://discord.com/channels/1050624267592663050/1051038432043999303/1063798954980024372)
 * [[Dark] Starship](https://gitlab.com/boydkelly/carbonizer/-/blob/main/starship/starship.toml)
 * [[Light/Dark] Wallpapers](https://github.com/andrewzn69/wallpapers/tree/main/carbon)
+* [[Dark] rEFInd](https://github.com/PedroVH/oxocarbon-refind)
