@@ -17,6 +17,7 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [What is Carbon?](https://carbondesignsystem.com/all-about-carbon/what-is-carbon/)
 * [IBM Design Language](https://www.ibm.com/design/language/)
 * [Oxocarbon GitHub Repository (Official)](https://github.com/nyoom-engineering/oxocarbon)
+* [Oxocarbon Template Repository (Official)](https://github.com/nyoom-engineering/oxocarbon-template)
 * [A few themes made by Boyd Kelly](https://gitlab.com/boydkelly/carbonizer)
 
 ### Editors
