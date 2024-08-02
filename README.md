@@ -68,3 +68,4 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Dark] rEFInd](https://github.com/PedroVH/oxocarbon-refind)
 * [[Dark] MonkeyType](https://monkeytype.com/?customTheme=WyIjMTYxNjE2IiwiI2QxZDBjNSIsIiNkZGUxZTYiLCIjNTI1MjUyIiwiIzI2MjYyNiIsIiNmZmZmZmYiLCIjZWU1Mzk2IiwiI2ZmN2ViNiIsIiNlZTUzOTYiLCIjZmY3ZWI2Il0=)
 * [[Dark] TempleOS (Screenshot)](https://discord.com/channels/1050624267592663050/1051038432043999303/1172554632753598565)
+* [[Dark] Bat](https://gitlab.com/boydkelly/carbonizer/-/blob/main/bat/oxocarbon-dark.tmTheme)
