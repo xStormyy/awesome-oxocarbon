@@ -50,7 +50,9 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Dark] WhatsApp](https://github.com/PedroVH/oxocarbon-userstyles/tree/main/whatsapp-web)
 * [[Dark] YouTube](https://github.com/PedroVH/oxocarbon-userstyles/tree/main/youtube)
 * [[Dark] Gitea](https://discord.com/channels/1050624267592663050/1051038432043999303/1268601303123365949)
-
+* [[Dark] Vimium](https://discord.com/channels/1050624267592663050/1051038432043999303/1125567824212021328)
+* [[Dark] MonkeyType](https://monkeytype.com/?customTheme=WyIjMTYxNjE2IiwiI2QxZDBjNSIsIiNkZGUxZTYiLCIjNTI1MjUyIiwiIzI2MjYyNiIsIiNmZmZmZmYiLCIjZWU1Mzk2IiwiI2ZmN2ViNiIsIiNlZTUzOTYiLCIjZmY3ZWI2Il0=)
+  
 ### Display Managers
 * [[Dark] SDDM](https://github.com/poach3r/sddm-oxocarbon)
 
@@ -60,7 +62,6 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Dark] Gradience](https://gist.github.com/KPidS/8887c7c083c466261b94a3b7c02df9b9)
 
 ### Other
-* [[Dark] Vimium](https://discord.com/channels/1050624267592663050/1051038432043999303/1125567824212021328)
 * [[Dark] Oxocarbon themed Papirus Folders](https://github.com/BattleCh1cken/oxocarbon-papirus-folders)
 * [[Dark] Rofi](https://github.com/BattleCh1cken/oxocarbon-rofi/tree/main)
 * [[Dark] Rofi](https://discord.com/channels/1050624267592663050/1051038432043999303/1270424218932088872)
@@ -68,6 +69,5 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Dark] Starship](https://gitlab.com/boydkelly/carbonizer/-/blob/main/starship/starship.toml)
 * [[Light/Dark] Wallpapers](https://github.com/andrewzn69/wallpapers/tree/main/carbon)
 * [[Dark] rEFInd](https://github.com/PedroVH/oxocarbon-refind)
-* [[Dark] MonkeyType](https://monkeytype.com/?customTheme=WyIjMTYxNjE2IiwiI2QxZDBjNSIsIiNkZGUxZTYiLCIjNTI1MjUyIiwiIzI2MjYyNiIsIiNmZmZmZmYiLCIjZWU1Mzk2IiwiI2ZmN2ViNiIsIiNlZTUzOTYiLCIjZmY3ZWI2Il0=)
 * [[Dark] TempleOS](https://github.com/justchokingaround/holyAOC23/blob/main/Home/Theme.HC) [(Screenshot)](https://discord.com/channels/1050624267592663050/1051038432043999303/1172554632753598565)
 * [[Dark] Bat](https://gitlab.com/boydkelly/carbonizer/-/blob/main/bat/oxocarbon-dark.tmTheme)
