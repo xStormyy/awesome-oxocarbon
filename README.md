@@ -56,7 +56,7 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Dark] YouTube](https://github.com/PedroVH/oxocarbon-userstyles/tree/main/youtube)
 * [[Dark] Gitea](https://discord.com/channels/1050624267592663050/1051038432043999303/1268601303123365949)
 * [[Dark] Vimium](https://discord.com/channels/1050624267592663050/1051038432043999303/1125567824212021328)
-* [[Dark] MonkeyType](https://monkeytype.com/?customTheme=WyIjMTYxNjE2IiwiI2QxZDBjNSIsIiNkZGUxZTYiLCIjNTI1MjUyIiwiIzI2MjYyNiIsIiNmZmZmZmYiLCIjZWU1Mzk2IiwiI2ZmN2ViNiIsIiNlZTUzOTYiLCIjZmY3ZWI2Il0=)
+* [[Dark] MonkeyType](https://discord.com/channels/1050624267592663050/1050626200613171221/1088200643400974457)
   
 ### Display Managers
 * [[Dark] SDDM](https://github.com/poach3r/sddm-oxocarbon)
