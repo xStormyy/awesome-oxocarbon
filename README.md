@@ -64,7 +64,7 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 ### GUI Toolkits
 * [[Dark] GTK 4](https://discord.com/channels/1050624267592663050/1051039607308943400/1130969626814193815)
 * [[Dark] GTK 3](https://git.sr.ht/~ved/oxocarbon-gtk)
-* [[Dark] Gradience](https://gist.github.com/KPidS/8887c7c083c466261b94a3b7c02df9b9)
+<!-- * [[Dark] Gradience](https://gist.github.com/KPidS/8887c7c083c466261b94a3b7c02df9b9) -->
 
 ### Other
 * [[Dark] Oxocarbon themed Papirus Folders](https://github.com/BattleCh1cken/oxocarbon-papirus-folders)
