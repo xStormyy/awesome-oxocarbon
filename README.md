@@ -30,6 +30,7 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Dark] Emacs](https://github.com/thefossenjoyer/oxocarbon-emacs)
 * [[Dark] Zed](https://github.com/Takk8IS/oxocarbon-theme-for-zed)
 * [[Dark] Zed](https://github.com/danielgrbacbravo/oxocarbon-zed-theme)
+* [[Light/Dark] Replit](https://github.com/oxocarbon-theme/replit)
 
 ### Terminals
 * [[Light/Dark] Alacritty (Official)](https://github.com/nyoom-engineering/oxocarbon-alacritty)
