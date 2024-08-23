@@ -13,9 +13,9 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 2. [Editors](#editors)
 3. [Terminals](#terminals)
 4. [Web](#web)
-5. [Display Managers](#display-managers)
-6. [GUI Toolkits](#gui-toolkits)
-7. [Other](#other)
+5. [GUI Toolkits](#gui-toolkits)
+6. [Other](#other)
+<!-- 5. [Display Managers](#display-managers) -->
 
 ### Resources
 * [What is Carbon?](https://carbondesignsystem.com/all-about-carbon/what-is-carbon/)
@@ -57,10 +57,10 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Dark] Gitea](https://discord.com/channels/1050624267592663050/1051038432043999303/1268601303123365949)
 * [[Dark] Vimium](https://discord.com/channels/1050624267592663050/1051038432043999303/1125567824212021328)
 * [[Dark] MonkeyType](https://discord.com/channels/1050624267592663050/1050626200613171221/1088200643400974457)
-  
+<!--
 ### Display Managers
 * [[Dark] SDDM](https://github.com/poach3r/sddm-oxocarbon)
-
+-->
 ### GUI Toolkits
 * [[Dark] GTK 4](https://discord.com/channels/1050624267592663050/1051039607308943400/1130969626814193815)
 * [[Dark] GTK 3](https://git.sr.ht/~ved/oxocarbon-gtk)
