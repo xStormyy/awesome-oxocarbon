@@ -44,7 +44,7 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Dark] Termux](https://discord.com/channels/1050624267592663050/1051039607308943400/1145370357864345640)
 * [[Light] Kitty](https://gitlab.com/boydkelly/carbonizer/-/blob/main/kitty/oxocarbon-light.conf)
 * [[Dark] Kitty](https://github.com/hbjydev/oxocarbon-kitty)
-* [[Light/Dark] Foot](https://gitlab.com/boydkelly/carbonizer/-/tree/main/foot)
+* [[Light/Dark] Foot](https://github.com/Oxocarbon-Theme/foot)
 * [[Dark] GNOME Terminal](https://github.com/charleszheng44/gnome-terminal-oxocarbon)
 * [[Dark] Hyper](https://github.com/charleszheng44/hyper-oxocarbon)
 * [[Light/Dark] tmux](https://github.com/JonRoosevelt/tmux-oxocarbon)
