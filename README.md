@@ -81,3 +81,4 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 ### Configurations
 * [[Dark] Carbonated](https://github.com/yummy-licorice/Carbonated/tree/master) by yummy-licorice
 * [[Dark] CarbonMonoxide](https://github.com/Failedex/CarbonMonoxide) by Failedex
+* [[Dark] kiseki](https://github.com/71zenith/kiseki) by 71zenith
