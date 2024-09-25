@@ -54,7 +54,7 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Dark] Email](https://github.com/PedroVH/oxocarbon-userstyles/tree/main/gmail)
 * [[Dark] WhatsApp](https://github.com/PedroVH/oxocarbon-userstyles/tree/main/whatsapp-web)
 * [[Dark] YouTube](https://github.com/PedroVH/oxocarbon-userstyles/tree/main/youtube)
-* [[Dark] Gitea](https://discord.com/channels/1050624267592663050/1051038432043999303/1268601303123365949)
+* [[Dark] Forgejo](https://codeberg.org/bipp/oxocarbon-forgejo)
 * [[Dark] Vimium](https://discord.com/channels/1050624267592663050/1051038432043999303/1125567824212021328)
 * [[Dark] MonkeyType](https://discord.com/channels/1050624267592663050/1050626200613171221/1088200643400974457)
 <!--
