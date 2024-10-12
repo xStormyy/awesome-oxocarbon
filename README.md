@@ -57,6 +57,7 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Dark] Forgejo](https://codeberg.org/bipp/oxocarbon-forgejo)
 * [[Dark] Vimium](https://discord.com/channels/1050624267592663050/1051038432043999303/1125567824212021328)
 * [[Dark] MonkeyType](https://discord.com/channels/1050624267592663050/1050626200613171221/1088200643400974457)
+* [[Light] MonkeyType](https://discord.com/channels/1050624267592663050/1051038432043999303/1294640380607860772)
 <!--
 ### Display Managers
 * [[Dark] SDDM](https://github.com/poach3r/sddm-oxocarbon)
