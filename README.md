@@ -34,6 +34,7 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Dark] Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ibmlover.oxocarbon)
 * [[Light/Dark] Visual Studio Code](https://github.com/DaKili/oxocarbon-5)
 * [[Dark] Emacs](https://github.com/thefossenjoyer/oxocarbon-emacs)
+* [[Dark] Emacs](https://github.com/konrad1977/oxocarbon-emacs)
 * [[Dark] Zed](https://github.com/Takk8IS/oxocarbon-theme-for-zed)
 * [[Dark] Zed](https://github.com/danielgrbacbravo/oxocarbon-zed-theme)
 * [[Light/Dark] Replit](https://github.com/oxocarbon-theme/replit)
