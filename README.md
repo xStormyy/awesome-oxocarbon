@@ -10,13 +10,12 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 
 ### Contents
 1. [Resources](#resources)
-2. [Editors](#editors)
-3. [Terminals](#terminals)
-4. [Web](#web)
-5. [Display Managers](#display-managers)
-6. [GUI Toolkits](#gui-toolkits)
-7. [Other](#other)
-8. [Configurations](#configurations)
+1. [Editors](#editors)
+1. [Terminals](#terminals)
+1. [Web](#web)
+1. [GUI Toolkits](#gui-toolkits)
+1. [Other](#other)
+1. [Configurations](#configurations)
 
 ### Resources
 * [What is Carbon?](https://carbondesignsystem.com/all-about-carbon/what-is-carbon/)
@@ -63,9 +62,9 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Light] MonkeyType](https://discord.com/channels/1050624267592663050/1051038432043999303/1294640380607860772)
 * [[Dark] Discord](https://github.com/deceptionfalls/oxocarbon-discord)
 
-### Display Managers
+<!-- ### Display Managers -->
 <!-- * [[Dark] SDDM](https://github.com/poach3r/sddm-oxocarbon) -->
-* [[Dark] SDDM](https://github.com/raulescobar-g/oxocarbon-sddm-theme)
+<!-- * [[Dark] SDDM](https://github.com/raulescobar-g/oxocarbon-sddm-theme) -->
 
 ### GUI Toolkits
 * [[Dark] GTK 4](https://discord.com/channels/1050624267592663050/1051039607308943400/1130969626814193815)
