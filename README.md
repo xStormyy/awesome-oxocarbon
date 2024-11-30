@@ -82,7 +82,7 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Dark] TempleOS](https://github.com/justchokingaround/holyAOC23/blob/main/Home/Theme.HC) [(Screenshot)](https://discord.com/channels/1050624267592663050/1051038432043999303/1172554632753598565)
 * [[Dark] Bat](https://gitlab.com/boydkelly/carbonizer/-/blob/main/bat/oxocarbon-dark.tmTheme)
 * [[Dark] Zathura](https://discord.com/channels/1050624267592663050/1051038201193701427/1125867649088376892)
-* [[Light/Dark] btop](https://discord.com/channels/1050624267592663050/1051038432043999303/1307736324760932464)
+* [[Light/Dark] btop](https://gist.github.com/gideonmt/cf8561cb130e3ca859f8a5471014e933)
 * [[Dark] Fuzzel](https://github.com/kuripa/oxocarbon-fuzzel)
 
 ### Configurations
