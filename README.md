@@ -43,7 +43,7 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Light/Dark] iTerm2 (Official)](https://github.com/nyoom-engineering/oxocarbon-iterm2)
 * [[Light/Dark] Wezterm (Official)](https://github.com/nyoom-engineering/oxocarbon-wezterm)
 * [[Light/Dark] MacOS Terminal (Official)](https://github.com/nyoom-engineering/oxocarbon-terminal-app)
-* [[Dark] Termux](https://discord.com/channels/1050624267592663050/1051039607308943400/1145370357864345640)
+* [[Light/Dark] Termux](https://github.com/Oxocarbon-Theme/termux)
 * [[Light/Dark] Kitty](https://github.com/Oxocarbon-Theme/kitty)
 * [[Light/Dark] Foot](https://github.com/Oxocarbon-Theme/foot)
 * [[Dark] GNOME Terminal](https://github.com/charleszheng44/gnome-terminal-oxocarbon)
