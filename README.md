@@ -90,3 +90,4 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Dark] CarbonMonoxide](https://github.com/Failedex/CarbonMonoxide) by Failedex
 * [[Dark] kiseki](https://github.com/71zenith/kiseki) by 71zenith
 * [[Dark] bspwm-oxocarbon](https://github.com/Pranit986/bspwm-oxocarbon) by Pranit986
+* [[Dark] dwm_dots](https://github.com/nimzou/dwm_dots/tree/main) by nimzou
