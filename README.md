@@ -75,7 +75,7 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Dark] Oxocarbon themed Papirus Folders](https://github.com/BattleCh1cken/oxocarbon-papirus-folders)
 * [[Dark] Rofi](https://github.com/BattleCh1cken/oxocarbon-rofi/tree/main)
 * [[Dark] Rofi](https://discord.com/channels/1050624267592663050/1051038432043999303/1270424218932088872)
-* [[Dark] fzf](https://discord.com/channels/1050624267592663050/1051038432043999303/1063798954980024372)
+* [[Dark] fzf](https://gist.github.com/xStormyy/ab7549107e2ca0e7d3f97a76be7ffb77)
 * [[Dark] Starship](https://gitlab.com/boydkelly/carbonizer/-/blob/main/starship/starship.toml)
 * [[Light/Dark] Wallpapers](https://github.com/andrewzn69/wallpapers/tree/main/carbon)
 * [[Dark] rEFInd](https://github.com/PedroVH/oxocarbon-refind)
