@@ -84,7 +84,7 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Dark] Zathura](https://discord.com/channels/1050624267592663050/1051038201193701427/1125867649088376892)
 * [[Light/Dark] btop](https://gist.github.com/gideonmt/cf8561cb130e3ca859f8a5471014e933)
 * [[Dark] Fuzzel](https://github.com/kuripa/oxocarbon-fuzzel)
-* [[Light/Dark] Funkyborders](https://gist.github.com/ethanuppal/384976fcb454cfcf81d8d12815dddce0)
+* [[Light/Dark] Jankyborders](https://gist.github.com/ethanuppal/384976fcb454cfcf81d8d12815dddce0)
 
 ### Configurations
 * [[Dark] Carbonated](https://github.com/yummy-licorice/Carbonated/tree/master) by yummy-licorice
