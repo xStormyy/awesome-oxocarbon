@@ -1,3 +1,4 @@
+<!-- Add image of screenshots of oxocarbon themed applications sorta layered on top. Switch between light and dark depending on user's preferred theme -->
 # awesome-oxocarbon
 
 > [!NOTE]
