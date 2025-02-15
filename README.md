@@ -52,6 +52,7 @@ Oxocarbon is a high contrast accessible colorscheme inspired by IBM Carbon.
 * [[Light/Dark] tmux](https://github.com/JonRoosevelt/tmux-oxocarbon)
 * [[Dark] Konsole](https://github.com/code0x378/oxocarbon-konsole)
 * [[Dark] ST](https://gist.github.com/xStormyy/f6d5316a395091f1de57e42ac0492632)
+* [[Dark] Warp](https://github.com/Takk8IS/oxocarbon-theme-for-warp)
 
 ### Web
 * [[Dark] GitHub](https://github.com/PedroVH/oxocarbon-userstyles/tree/main/github)
